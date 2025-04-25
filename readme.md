@@ -82,9 +82,3 @@ valor Total :.....................$ 9,000.00
 
 ---
 
-## ✅ Posibles mejoras
-
-- Permitir ingresar precios con decimales (usar `float()` con validación).
-- Validar que no se ingresen valores negativos.
-- Guardar las facturas en un archivo `.txt`.
-- Hacer interfaz gráfica con Tkinter o web con Flask.
